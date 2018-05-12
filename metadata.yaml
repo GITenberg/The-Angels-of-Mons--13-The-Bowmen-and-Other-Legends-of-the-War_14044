@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/214
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14044#The-Angels-of-Mons--13-The-Bowmen-and-Other-Legends-of-the-War
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-11-14'
 gutenberg_type: Text
